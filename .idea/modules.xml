@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/learning_demo1.iml" filepath="$PROJECT_DIR$/learning_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.阶段一 Java核心与AI开发基础.iml" filepath="$PROJECT_DIR$/.idea/1.阶段一 Java核心与AI开发基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章：基础语法/第二章：基础语法.iml" filepath="$PROJECT_DIR$/第二章：基础语法/第二章：基础语法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章：面向对象高级/代码/代码.iml" filepath="$PROJECT_DIR$/第六章：面向对象高级/代码/代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章：开发环境搭建/第一章：开发环境搭建.iml" filepath="$PROJECT_DIR$/第一章：开发环境搭建/第一章：开发环境搭建.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第七章：常用API/第七章：常用API.iml" filepath="$PROJECT_DIR$/第七章：常用API/第七章：常用API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章：流程控制语句/第三章：流程控制语句.iml" filepath="$PROJECT_DIR$/第三章：流程控制语句/第三章：流程控制语句.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章：面向对象基础/第五章：面向对象基础.iml" filepath="$PROJECT_DIR$/第五章：面向对象基础/第五章：面向对象基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第八章：综合案例/第八章：综合案例.iml" filepath="$PROJECT_DIR$/第八章：综合案例/第八章：综合案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章：面向对象高级/第六章：面向对象高级.iml" filepath="$PROJECT_DIR$/第六章：面向对象高级/第六章：面向对象高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章：数组/第四章：数组.iml" filepath="$PROJECT_DIR$/第四章：数组/第四章：数组.iml" />
     </modules>
   </component>
 </project>
